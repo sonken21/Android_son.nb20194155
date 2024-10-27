@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="nh_p_s_ti_n_ngu_n">Nhập số tiền nguồn</string>
+    <string name="s_ti_n_ch">Số tiền đích</string>
+    <string-array name="currencies_array">
+        <item>USD</item>
+        <item>VND</item>
+        <!-- Thêm các đồng tiền khác nếu cần -->
+    </string-array>
+</resources>

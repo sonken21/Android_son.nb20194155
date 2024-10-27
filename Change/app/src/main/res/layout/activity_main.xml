@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+android:layout_height="match_parent"
+    android:autofillHints=""
+    android:orientation="vertical"
+android:padding="16dp">
+
+    <EditText
+        android:id="@+id/source_amount"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/nh_p_s_ti_n_ngu_n"
+        android:inputType="numberDecimal"
+        android:minHeight="48dp"
+        android:textColorHint="#546E7A"
+        tools:ignore="Autofill,VisualLintTextFieldSize" />
+
+    <Spinner
+        android:id="@+id/source_currency"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:autofillHints=""
+        android:importantForAutofill="no"
+        android:minHeight="48dp" />
+
+    <EditText
+        android:id="@+id/destination_amount"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:focusable="false"
+        android:hint="@string/s_ti_n_ch"
+        android:inputType="none"
+        android:minHeight="48dp"
+        tools:ignore="Autofill,VisualLintTextFieldSize" />
+
+    <Spinner
+        android:id="@+id/destination_currency"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="48dp" />
+</LinearLayout>
+
