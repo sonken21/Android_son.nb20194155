@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">Bai2</string>
-    <string name="so_chan">Số chẵn</string>
-    <string name="so_le">Số lẻ</string>
-    <string name="so_cp">Số chính phương</string>
-    <string name="ket_qua">Show</string>
-    <string name="Nhap">Nhập số nguyên dương</string>
-</resources>
