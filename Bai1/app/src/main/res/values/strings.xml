@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Bai1</string>
+    <string name="noi_o">Nơi ở hiện tại</string>
+    <string name="so_thich">Sở thích</string>
+    <string name="ngay_sinh">Chọn ngày sinh</string>
+    <string name="submit">Submit</string>
+    <string name="am_nhac">Âm nhạc</string>
+    <string name="dong_y">Tôi đồng ý với các điều khoản</string>
+    <string name="dien_anh">Điện ảnh</string>
+    <string name="the_thao">Thể thao</string>
+    <string name="email">Email</string>
+    <string name="ho_ten">Họ tên</string>
+    <string name="mssv">MSSV</string>
+    <string name="nam">Nam</string>
+    <string name="nu">Nữ</string>
+    <string name="sdt">Số điện thoại</string>
+</resources>
