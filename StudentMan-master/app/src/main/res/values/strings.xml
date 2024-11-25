@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">StudentMan</string>
-    <string name="add_new">Add new</string>
-    <string name="hint_student_name">Nhập tên sinh viên</string>
-    <string name="hint_student_id">Nhập mã sinh viên</string>
-
-</resources>
