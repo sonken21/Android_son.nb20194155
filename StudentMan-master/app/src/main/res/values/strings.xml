@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StudentMan</string>
+    <string name="nh_p_m_sinh_vi_n">Nhập mã sinh viên</string>
+    <string name="c_p_nh_t_sinh_vi_n">Cập nhật sinh viên</string>
+    <string name="nh_p_t_n_sinh_vi_n">Nhập tên sinh viên</string>
+    <string name="studentname">StudentName</string>
+    <string name="studentid">StudentId</string>
+    <string name="th_m_sinh_vi_n">Thêm sinh viên</string>
+    <string name="add_new">Add new</string>
+</resources>
