@@ -1,0 +1,9 @@
+<resources>
+    <!-- Style mặc định -->
+    <style name="Theme.FileManager" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Tùy chỉnh giao diện ở đây -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+    </style>
+</resources>
